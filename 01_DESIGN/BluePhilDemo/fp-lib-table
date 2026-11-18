@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BluePhilDemo_PCBFootprints")(type "KiCad")(uri "${KIPRJMOD}/BluePhilDemo_PCBFootprints.pretty")(options "")(descr ""))
+)

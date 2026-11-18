@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BluePhilDemo_SchematicSymbols")(type "KiCad")(uri "${KIPRJMOD}/BluePhilDemo_SchematicSymbols.kicad_sym")(options "")(descr ""))
+)
